@@ -14,13 +14,13 @@ function App() {
            <code>Get that 30</code> Get that 30 - Ezekiel
         </p>
     
-        <Greet name= "Astartes" Spacemarine= "Guilliman">
+        <Greet name= "Astartes" Spacemarine = "Guilliman">
            <Message/>
         </Greet>
-        <Greet name= "Emperor" Spacemarine= "of Mankind"/>
+        <Greet name= "Emperor" Spacemarine = "of Mankind"/>
            <Button/>
-        <Greet name= "" Native rambo= "catachan"/>
-        <Greet name= "Corvus" Spacemarine= "Eldar"/>
+        <Greet name= "" Native rambo = "catachan"/>
+        <Greet name= "Corvus" Spacemarine = "Eldar"/>
         <a
           className="App-link"
           href="https://reactjs.org"
